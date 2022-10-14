@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pashrey](https://github.com/pashrey)
 
-- 💬 Ask me about **Project Management, Computer Programming & Networking**
+- 💬 Ask me about **Project Management, Programming & Networking**
 
 - 📫 How to reach me **Shreypatel0703@gmail.com**
 
