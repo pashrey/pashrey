@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrey Patel</h1>
 <h3 align="center">Revenue Assurance Analyst</h3>
 
-- 🌱 I’m currently learning **PMP, AWS, TypeScript, .NET & #C**
+- 🌱 I’m currently learning **PMP, AWS, TypeScript, .NET & C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pashrey](https://github.com/pashrey)
 
