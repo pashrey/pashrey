@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Patel</h1>
-<h3 align="center">Systems Analyst</h3>
+<h3 align="center">Revenue Assurance Analyst</h3>
 
 - 🌱 I’m currently learning **PMP, JavaScript, TypeScript, .NET & #C**
 
